@@ -1,4 +1,4 @@
-"""Exeter Airport (EXT) destinations."""
+"""Exeter Airport (EXT) destinations — verified via Google Flights."""
 
 DESTINATIONS = {
     "EXT": {
@@ -6,19 +6,8 @@ DESTINATIONS = {
         "routes": {
             "AGP": "Malaga",
             "ALC": "Alicante",
-            "ACE": "Lanzarote",
-            "AYT": "Antalya",
-            "CFU": "Corfu",
-            "DLM": "Dalaman",
+            "DUB": "Dublin",
             "FAO": "Faro",
-            "FUE": "Fuerteventura",
-            "GNB": "Grenoble",
-            "GVA": "Geneva",
-            "HER": "Heraklion",
-            "LPA": "Gran Canaria",
-            "MJV": "Murcia",
-            "PMI": "Palma",
-            "TFS": "Tenerife",
         },
     },
 }
